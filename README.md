@@ -1,2 +1,2 @@
-# photos.github.io
-FOSSASIA Photo Site https://photos.github.io
+# photos.fossasia.org
+FOSSASIA Photo Site https://photos.fossasia.org
